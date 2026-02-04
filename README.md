@@ -67,22 +67,13 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=armanshaikh2005&show_icons=true&theme=radical&border_color=cyan" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=armanshaikh2005&theme=radical&border=cyan" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=armanshaikh2005&show_icons=true&theme=radical" />
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=armanshaikh2005&theme=radical" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanshaikh2005&layout=compact&theme=radical" />
-</p>
 
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=armanshaikh2005&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
